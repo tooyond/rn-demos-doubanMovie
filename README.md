@@ -4,4 +4,4 @@
 
 ## App截图
 
-![image](./readme/list.png =216x364) ![image](./readme/info.png =216x364)
+![image](./readme/list.png) ![image](./readme/info.png)
