@@ -1,0 +1,16 @@
+{
+  "name": "AwesomeProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "15.2.0",
+    "react-native": "0.29.0",
+    "react-native-scrollable-tab-view": "^0.5.3",
+    "react-native-tab-navigator": "^0.3.2",
+    "rn-china-region-picker": "git://github.com/hufeng/rn-china-region-picker.git"
+  }
+}
